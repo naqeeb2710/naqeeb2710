@@ -21,7 +21,7 @@
 <a href="https://instagram.com/naqeeb2710" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="naqeeb2710" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/naqeeb27" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="naqeeb27" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/naqeeb ahmed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="naqeeb ahmed" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@naqeeb27" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@naqeeb2710" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@naqeeb2710" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@naqeeb2710" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
