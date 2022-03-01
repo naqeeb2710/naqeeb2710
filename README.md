@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/naqeeb2710" target="blank"><img src="https://img.shields.io/twitter/follow/naqeeb2710?logo=twitter&style=for-the-badge" alt="naqeeb2710" /></a> </p>
 
-- 🌱 I’m currently learning **Web Devlopment And IoT**
-
-- 📝 I sometimes write articles on [techinformer.xyz](techinformer.xyz)
+- 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
 
 - 📫 How to reach me **Naqeeb532@outlook.com**
 
