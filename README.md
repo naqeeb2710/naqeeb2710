@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Naqeeb Ahmed</h1>
-<h3 align="center">A beginner, but a passionate developer.</h3>
+<h3 align="center">Pre Final Year Student.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naqeeb2710&label=Profile%20views&color=0e75b6&style=flat" alt="naqeeb2710" /> </p>
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
 
-- 📫 How to reach me **Naqeeb532@outlook.com**
+- 📫 How to reach me **Naqeeb2710@gmail.com**
 
 - ⚡ Fun fact **The Universe Is Complicated So We All Are**
 
