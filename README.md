@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Naqeeb Ahmed</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naqeeb2710&label=Profile%20views&color=0e75b6&style=flat" alt="naqeeb2710" /> </p>
-<p>Welcome to my GitHub profile! I'm a Junior year engineering student with a strong passion for data science and machine learning. As a data science intern, I've gained valuable experience working with real-world datasets and using advanced analytical techniques to uncover insights and drive business decisions.
+<p>Welcome to my GitHub profile! I'm a Final year engineering student with a strong passion for data science and machine learning. As a data science intern, I've gained valuable experience working with real-world datasets and using advanced analytical techniques to uncover insights and drive business decisions.
 
 I have a diverse skill set that encompasses data science, machine learning, and web development. This enables me to create end-to-end solutions that are both functional and visually appealing.
 
